@@ -18,5 +18,11 @@
     <ClCompile Include="rasterio.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="jp2totiff.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="savePNG.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
